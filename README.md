@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, PySpark And Big Data**
 
-- 💬 Working with **SQL, Snowflake**
+- 💬 Working with **SQL, Snowflake, PySpark**
 
 - 📫 How to reach me **dotokxd@gmail.com**
 
